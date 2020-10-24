@@ -1,0 +1,31 @@
+apt update && apt upgrade 
+
+pkg install python3
+
+pkg install git
+
+apt install toilet
+
+apt install figlet 
+clear
+sleep 3
+echo Powered by:
+figlet Arestant
+
+git clone https://github.com/Ranginang67/DarkFly-Tool
+
+cd DarkFly-Tool
+
+python2 install.py
+clear 
+sleep 2
+
+figlet Thanks to
+
+toilet Arestant
+echo DarkFly ornatildi
+echo ishlatish uchun terminalga
+echo DarkFly deb yozing
+
+
+
