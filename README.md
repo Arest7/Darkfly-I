@@ -10,9 +10,10 @@ pkg install git
 
 git clone https://github.com/Arest7/Darkfly-I
 
-chmod +x * (or chmod +x Arest))
+chmod +x Arest
 
 to run:
+
 1)./Arest
 
 2)bash Arest 
