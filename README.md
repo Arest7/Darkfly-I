@@ -1,6 +1,6 @@
 Thanks for using my script
 
-it's DrkFly installer
+It's DarkFly installer
 
 using:
 
